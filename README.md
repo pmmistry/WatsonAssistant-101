@@ -46,6 +46,25 @@ Hit `Create assistant` to create your first assistant.
 
 ![](./Images/04-assistant-service-create-1.png)
 
-Give your Assistant a name such as `Phone Advisor`
+Give your Assistant a name such as `Phone Advisor Assistant` and Create
 
 ![](./Images/05-assistant-create.png) 
+
+Now that you have created your assistant you will need to create a dialog skill where you will be adding the constructs such  as  _**Intents**_, _**Entities**_ and _**Dialogs**_ for your chat bot. Click on  `Add dialog skills` to get started
+
+![](./Images/06-assistant-skills.png)
+
+Give your skill a name such as `Phone Advisor Skill` and then click `Create dialog skill` and you're ready to rock and roll!
+
+![](./Images/07-assistant-skill.png)
+
+**(2)** Create the chatbot _**Intents**_.
+
+An _**intent**_ represents the **purpose** of a user's input. By recognising the intent expressed by a user, _**Watson Assistant**_ can choose the correct dialog flow to use to respond to it. To plan the _intents_ for your application, you need to consider what your chatbot users might want to do, and what you want your application to be able to handle.
+
+Choosing the correct _intent_ for a user's input is the first step in providing a useful response. The _intents_ you identify for your application will determine the dialog flows you need to create; they also might determine which back-end systems your application needs to integrate with in order to complete customer requests (such as customer databases or payment-processing systems).
+
+
+
+
+
