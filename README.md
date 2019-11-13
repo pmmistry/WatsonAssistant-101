@@ -204,7 +204,7 @@ You can leave the `Anything Else` node with its default settings.
 
 **(4)** Next, create a _Help_ node by selecting `Add Node`. Name it `Help`, and set the response to `Can I help you with something else?`. We'll use this node to ask the user if they want to ask us another question, after we've satisfied a previous query.
 
-![](./images/22-dialog-help.jpg)
+![](./Images/22-dialog-help.jpg)
 
 **(5)** Now we'll construct a `New Phone` node, which will pick up the user's _intent_ to ask for help with a new phone recommendation. We'll then ask the user what they are looking for in a new phone, and then look for positive or negative responses based on our previously built _intents_, as well as picking up either a brand name or a phone attribute defined by our _entities_.  Our recommendation response will then differ, and be dependent on the user's feedback.
 
