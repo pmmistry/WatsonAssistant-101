@@ -190,7 +190,7 @@ A _**dialog**_ uses the _intents_ and _entities_ that are identified in the user
 
 Modify the `Welcome` node so it welcomes the user with the message `Hello. I am a mobile phone advisor. How can I help you?` by selecting the node, then changing the **Then Respond With** field.
 
-**Note the next few images in this section will come from an older Watson Assistant User Interface but logic will remail the same**
+**Note the next few images in this section will come from an older Watson Assistant User Interface but logic will remain the same**
 
 ![](./Images/20-dialog-welcome.jpg)
 
