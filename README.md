@@ -2,7 +2,7 @@
 In this lab we'll start to build a chatbot using _**Watson Assistant**_. This basic chatbot will recommend a new mobile phone for a user based on their feedback about previous experiences they've had with phones.
 
 ## Requirements
-- [IBM Cloud account](https://ibm.biz/Bd2NYZ)
+- [IBM Cloud account](https://ibm.biz/SMBQ2020)
 
 ## Agenda
 - Introduction to [Watson Assistant](https://www.ibm.com/cloud/watson-assistant/)
